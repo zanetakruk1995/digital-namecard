@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Kruk;Żaneta;;;
+FN: Żaneta Kruk
+ORG:ITMAGINATION;
+TITLE:Business Development Manager, International Markets
+EMAIL;type=INTERNET;type=WORK;type=pref:zaneta.kruk@itmagination.com
+TEL;type=WORK;type=VOICE:+48 785 202 022
+item1.ADR;type=WORK;type=pref:;;Chmielna 85/87;;;00-805;Warszawa
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:itmagination.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
